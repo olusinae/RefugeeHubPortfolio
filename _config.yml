@@ -23,9 +23,7 @@ github_username:  olusinae
 
 # Build settings
 markdown: kramdown
-<<<<<<< HEAD
 theme: minima
-#theme: jekyll-theme-tactile
 =======
 theme: jekyll-theme-tactile
 >>>>>>> 54a63440b0875f7061e17022eb73c44efe466336
